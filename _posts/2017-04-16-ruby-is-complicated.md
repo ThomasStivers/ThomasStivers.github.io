@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thomas Stivers Blogs again
+title: Ruby is Complicated!
 date: 2017-04-16
 ---
 
