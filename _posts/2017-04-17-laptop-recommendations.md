@@ -1,0 +1,14 @@
+# Laptop Recommendations #
+
+I get asked, "What laptop should I buy?" by friends and family all the time. Here is my definitive guide on laptops.
+
+Here are a few of my recommendations for people who want to purchase a laptop. I have no idea what particular model you should get because they are always changing, but here's some tips to help you narrow them down.
+
+1. Stay away from netbooks, cloudbooks, chromebooks, or whatever name the sub $200 laptops are going by these days. These are good for entertainment only. They will not run MS Office which is the most common productivity suite. Sure, you can use one of the free office programs, but if you have trouble with it I don't know how to help with those.
+2. Choose a [Microsoft Signature PC](http://www.digitalcitizen.life/simple-questions-what-microsoft-signature). These computers come with Windows (sometimes Office) and not much else. This means you won't have a bunch of "free" trials which will slow down your PC, show pop-up ads, and generally get in your way. The bloatware the manufacturers put on most PCs is ridiculous, and you shouldn't have to spend a week purging the crap from your new computer.
+3. For a laptop a [solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive) (SSD) will make a big difference. SSDs are more expensive and smaller than regular hard drives, but they are fast! This is really noticeable on laptops which are shutting down and restarting all the time. Unless you are planning to store a lot of movies locally rather than watch them from the internet a 256 gigabyte SSD will be plenty.
+4. Get an [Intel I3, I5, or I7](https://www.pcworld.idg.com.au/article/386100/what_difference_between_an_intel_core_i3_i5_i7_/) CPU. You may notice that your I3 feels slow after a while, but the price difference may make that okay. Don't get anything with an Atom, ARM, or Celeron CPU. They will make you sad.
+5. Balance screen size with portability. You can get a 17 inch beast, but it will weigh a ton and you won't want to use it unless you have a whole workstation set up. On the other hand an 11 inch laptop will be cute, light, and harder to see. You will be happy to whip it out wherever you are, but then you might leave nose prints all over it because [ZoomText](http://www.zoomtext.com) can only fit 3 letters on your screen.
+6. You can never have too much memory. This is the one thing you should not skimp on. You can get the 11 inch pretty pink Barbie&reg; with Atom CPU cloudbook sponsored by CocaCola&reg;, McDonalds&reg;, and Nike&reg; for $49, and if it has 16 gigabytes of memory you'll probably be happy.
+
+I hope you find some of this helpful. I'll do my best to keep this up to date.
