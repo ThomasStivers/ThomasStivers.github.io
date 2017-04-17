@@ -6,3 +6,17 @@ layout: default
 <div class="post">
 {{ content }}
 </div>
+<nav>
+	<ul>
+		{% if page.previous %}
+		<li>
+			<a href="{{ page.previous.url }}" title="{{ page.previous.title }}" accesskey="p">Previous</a>
+		</li>
+		{% endif %}
+		{% if page.next %}
+		<li>
+			<a href="{{ page.next.url }}" title="{{ page.next.title }}" accesskey="n">Next</a>
+		</li>
+		{% endif %}
+	</ul>
+</nav>
