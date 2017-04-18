@@ -2,6 +2,13 @@
 
 h1 {
 	font-weight: bold;
+	font-size: 1.5em;
+}
+
+h2 {
 	font-size: 1.25em;
 }
 
+.cv {
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
