@@ -3,6 +3,7 @@ layout: default
 title: Thomas Stivers's Website
 ---
 
-Here is my website. Mostly it is a blog, but perhaps it will become more than that.
+# Home of Thomas Stivers #
+This page is pretty bare right now. Come back later for updates.
 
 ![QR code for my CV](/images/qr.cv.svg)
