@@ -1,2 +1,3 @@
 name: Thomas Stivers's Website
 markdown: kramdown
+paginate: 10
