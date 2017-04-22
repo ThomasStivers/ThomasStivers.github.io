@@ -1,3 +1,4 @@
 name: Thomas Stivers's Website
 markdown: kramdown
 paginate: 10
+paginate_path: "/blog/page:num/"
