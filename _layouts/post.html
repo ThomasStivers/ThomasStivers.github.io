@@ -8,15 +8,19 @@ layout: default
 </div> <!-- /.post -->
 <nav class="pager">
 	<ul>
+		<li>
 		{% if page.previous %}
-		<li>
-			<a href="{{ page.previous.url }}" title="{{ page.previous.title }}" accesskey="p">Previous</a>
-		</li>
+			<a href="{{ page.previous.url }}" class="previous" title="{{ page.previous.title }}" accesskey="p">&larr; Previous</a>
+		{% else %}
+			<span class="previous">&larr; Previous</span>
 		{% endif %}
+		</li>
+		<li>
 		{% if page.next %}
-		<li>
-			<a href="{{ page.next.url }}" title="{{ page.next.title }}" accesskey="n">Next</a>
-		</li>
+			<a href="{{ page.next.url }}" class="next" title="{{ page.next.title }}" accesskey="n">Next &rarr;</a>
+		{% else %}
+			<span class="next">Next &rarr;</span>
 		{% endif %}
+		</li>
 	</ul>
 </nav>
